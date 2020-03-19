@@ -1,4 +1,4 @@
-# AbojeBenjaminInalegwu
+# Aboje Benjamin Inalegwu
 # abojeb@rocketmail.com
 # abojeb
 # Frontend
